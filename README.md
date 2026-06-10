@@ -1,5 +1,4 @@
 <div>
-    <img alt="Logo" class="no-zoom" src="https://seb-bh.github.io/universal-resources-internal/static/v2/assets/hero-logo.png">
     <h1>
         <span class="prefix"></span>
         <span class="headline">Intro to Git and GitHub</span>

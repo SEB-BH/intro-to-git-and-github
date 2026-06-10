@@ -1,4 +1,10 @@
-# ![Intro to Git and GitHub](./assets/originals/ga-logos/red-cog.png) Intro to Git and GitHub
+<div>
+    <img alt="Logo" class="no-zoom" src="https://seb-bh.github.io/universal-resources-internal/static/v2/assets/hero-logo.png">
+    <h1>
+        <span class="prefix"></span>
+        <span class="headline">Intro to Git and GitHub</span>
+    </h1>
+</div>
 
 ## About
 
@@ -12,7 +18,7 @@ This module provides a comprehensive introduction to Git and GitHub, aimed at br
 | [GitHub Concepts](./github-concepts/README.md)        | Understand the role GitHub plays in our work and how it is different from Git.|
 | [GitHub Fundamentals](./github-fundamentals/README.md)| Clone a remote repository and open it in VS Code.    |
 | [Git Fundamentals](./git-fundamentals/README.md)      | Check the status of their local repository, as well as the list of remotes attached.|
-| [Git Flow](./git-flow/README.md)                        Stage and commit changes locally and push those changes to GitHub.|
+| [Git Flow](./git-flow/README.md)                      |  Stage and commit changes locally and push those changes to GitHub.|
 | **Total content**                                     |  28 min                                              |
 
 ## References
